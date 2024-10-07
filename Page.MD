@@ -7,4 +7,9 @@ To craft all basic scrolls, recipes are as follows:
 - 1 scroll + darkness item, gives the Darkness scroll.
 - 1 scroll + totem of undying, gives the Evocation scroll.
 
+To craft the essence items, recipes are as follows:
 
+- 1 empty essence + magma block, gives 16 Fire essence.
+- 1 empty essence + snow (item), gives 8 Ice essence.
+- 1 empty essence + ender pearl, gives 4 Dark essence.
+- 1 empty essence + iron bar, gives 4 Evocation essence
